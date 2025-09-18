@@ -23,10 +23,8 @@ export const LogoDisplay: React.FC<LogoDisplayProps> = ({
     <div className={`
       ${sizeClasses[size]} 
       rounded-2xl
-      bg-white/10 backdrop-blur-sm
       flex items-center justify-center
       shadow-lg shadow-black/25
-      border border-white/20
       overflow-hidden
       ${className}
     `}>
