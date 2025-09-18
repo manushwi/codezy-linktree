@@ -28,7 +28,7 @@ function App() {
     // },
     {
       title: 'Contact Us',
-      href: 'https://mail.google.com/mail/?view=cm&fs=1&to=manushwi.test@gmail.com',
+      href: 'mailto:manushwi.test@gmail.com',
       icon: <Mail size={24} />
     },
     // {
